@@ -1,1 +1,1 @@
-# Python Fun Mini Projects
+### Python Mini Projects
